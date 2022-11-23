@@ -1,0 +1,23 @@
+{
+  "name": "Single-Page-JavaScript_Application",
+  "version": "1.0.0",
+  "description": "An SPA (Single-page application) is a web app implementation that loads only a single web document,          and then updates the body content of that single document via JavaScript APIs such as XMLHttpRequest          and Fetch when different content is to be shown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ctoic/Single-Page-JavaScript_Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ctoic/Single-Page-JavaScript_Application/issues"
+  },
+  "homepage": "https://github.com/Ctoic/Single-Page-JavaScript_Application#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
